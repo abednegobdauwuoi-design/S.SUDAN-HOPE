@@ -1,0 +1,6 @@
+{
+  "name": "S.SUDAN HOPE",
+  "description": "A community-focused initiative empowering South Sudan through education, vocational skills, youth leadership, and vulnerable family support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
